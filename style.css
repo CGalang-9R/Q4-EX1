@@ -1,0 +1,38 @@
+body {
+	background-image: url(https://i.pinimg.com/736x/86/29/1c/86291ca908b76af3744a100cb9c2610e.jpg);
+	padding: 30px;
+	background-repeat:no-repeat;
+	background-size: cover;
+	font-family: "Play", serif;
+}
+
+.container {
+	background-color: lightcyan;
+	box-shadow: 10px 10px 16px -4px rgba(0,0,0,0.5);
+	border-radius: 20px;
+}
+
+.container2 {
+	display: flex;
+	padding: 30px;
+	margin: auto;
+	text-align: center;
+	gap: 30px;
+	justify-content: center;
+}
+
+a {
+	text-decoloration: none;
+	text-decoration:none;
+	color: black;
+}
+
+.footer {
+	background-color: lightcyan;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	padding: 18px;
+	text-align: center;
+}
